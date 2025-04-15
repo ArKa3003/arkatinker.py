@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Script to build Tinker from source and install psi4 through conda on macOS
-# Author: Claude
-# Date: April 2025
 
 set -e  # Exit on error
 
